@@ -5,3 +5,4 @@ Move the bowling ball with the up,down,left or right keys.
 Group members:
 121434 - Irungu Alex
 121436-Wasonga Edita
+121048- Lucy Wanja
