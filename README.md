@@ -8,3 +8,4 @@ Group members:
 121436-Wasonga Edita
 121048- Lucy Wanja
 120172 - Kevan Muthomi
+121008 - Gerald Adero
